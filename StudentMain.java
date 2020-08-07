@@ -23,7 +23,7 @@ public class StudentMain {
 		set.add(std4);
 		
 		
-		List<Student> studentage = new ArrayList<Student>(store);
+		List<Student> studentage = new ArrayList<Student>(set);
 		display(studentage);
 	}
 	
